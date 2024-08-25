@@ -3,12 +3,13 @@ Hey, Hey, Hey
 
 
 Ciência, Tecnologia, Engenharia.
-- ** CLOUD FOUNDATION: (Kubernete | Azure | Aws |Docker ) 🚀
+-  CLOUD FOUNDATION: (Kubernete | Azure | Aws |Docker ) 🚀
 
-- ** 👩‍💻 Engenheiro Informático de Computadores e IA.
-- ** 🎓 Aprenda comigo e eu Contigo.
-- ** 💡Aberto a desafios e Colaboções.
-- ** 🌐 Siga-me nas redes sociais.
+-  👩‍💻 Engenheiro Informático de Computadores e IA.
+-  🎓 Aprenda comigo e eu Contigo.
+-  💡Aberto a desafios e Colaboções.
+-  🌐 Siga-me nas redes sociais.
+- ![AmosAP GitHub stats](https://github-readme-stats.vercel.app/api?username=AmosAP&show_icons=true&theme=highcontrast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
