@@ -7,7 +7,7 @@ Ciência, Tecnologia, Engenharia.
 
 -  👩‍💻 Engenheiro Informático de Computadores e IA.
 -  🎓 Aprenda comigo e eu Contigo.
--  💡Aberto a desafios e Colaboções.
+-  💡Aberto a desafios e Colaborações.
 -  🌐 Siga-me nas redes sociais.
 - ![AmosAP GitHub stats](https://github-readme-stats.vercel.app/api?username=AmosAP&show_icons=true&theme=highcontrast)
 
