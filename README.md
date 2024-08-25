@@ -1,5 +1,5 @@
 Hey, Hey, Hey 
-<p align="center"><a href="https://github.com/AmosAP"><img width="80%" alt="Hello, I'm Amoós Laurindo. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/AmosAP"><img width="80%" alt="Hello, I'm Amoós Laurindo. I do open source!" src="https://github.com/user-attachments/assets/062b5dd0-b094-4b2b-a0df-4ca2aa0d13c1" /></a></p>
 
 
 Ciência, Tecnologia, Engenharia.
